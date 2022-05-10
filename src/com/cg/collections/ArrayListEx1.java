@@ -5,6 +5,7 @@ import java.util.Collections;
 public class ArrayListEx1 {
 public static void main(String[] args) {
 	System.out.println("Array List Demo");
+	System.out.println("Git Hub practicing ");
 	ArrayList<Integer> list1= new ArrayList<Integer>();
 	list1.add(99);
 	list1.add(45);
