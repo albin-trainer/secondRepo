@@ -1,6 +1,8 @@
 package com.cg;
 public class CastingEx {
 public static void main(String[] args) {
+	
+	System.out.println("Change made by anant");
 	Animal a1=new Dog();
 	a1.walk();
 	//Dog a2=a1; Compilation Error .....
