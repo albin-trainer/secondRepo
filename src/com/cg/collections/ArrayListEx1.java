@@ -6,6 +6,7 @@ public class ArrayListEx1 {
 public static void main(String[] args) {
 	System.out.println("Array List Demo");
 	System.out.println("Git Hub practicing ");
+	System.out.println("Git Hub practice ...... ");
 	ArrayList<Integer> list1= new ArrayList<Integer>();
 	list1.add(99);
 	list1.add(45);
